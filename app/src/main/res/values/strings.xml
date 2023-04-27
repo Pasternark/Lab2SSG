@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab2 SSG</string>
+
+    <string name="article_title">Artistas</string>
+    <string name="artist_one_name">Chester Bennington</string>
+    <string name="artist_two_name">Freddie Mercury</string>
+
+    <string name="content_article_artist_one">Chester Charles Bennington (Phoenix, 20 de marzo de 1976-Palos Verdes, 20 de julio de 2017) fue un cantante estadounidense, conocido como el vocalista principal de la banda de rock Linkin Park. También fue el vocalista principal de las bandas Grey Daze, Dead by Sunrise y Stone Temple Pilots.\n
+    Bennington ganó prominencia por primera vez como vocalista tras el lanzamiento del álbum debut de Linkin Park, Hybrid Theory (2000), que fue un éxito comercial mundial. El álbum fue certificado Diamante por la Recording Industry Association of America en 2005, lo que lo convierte en el álbum debut más vendido de la década, así como uno de los pocos álbumes en lograr tantas ventas. Los siguientes álbumes de estudio de Linkin Park, desde Meteora (2003) hasta One More Light (2017), continuaron con el éxito de la banda.\n
+    Bennington formó su propia banda, Dead by Sunrise, como un proyecto paralelo en 2005. El álbum debut de la banda, Out of Ashes, fue lanzado el 13 de octubre de 2009. Se convirtió en el cantante principal de Stone Temple Pilots en 2013 para lanzar la obra extendida High Rise el 8 de octubre de 2013, a través de su propio sello discográfico, Play Pen, pero se fue en 2015 para centrarse únicamente en Linkin Park. Como actor, apareció en películas como Crank (2006), Crank: High Voltage (2009) y Saw 3D (2010).</string>
+    <string name="content_article_artist_two">Freddie Mercury (nacido como Farrokh Bulsara; Stone Town, Tanzania, 5 de septiembre de 1946-Kensington, Londres, 24 de noviembre de 1991) fue un cantante y compositor británico que alcanzó fama mundial por ser el vocalista principal y pianista de la banda de rock Queen. Siendo intérprete, ha sido reconocido por su poderosa voz y extravagantes puestas en escena.\n
+    Como compositor, escribió muchos de los éxitos de Queen, tales como «Killer Queen», «Bohemian Rhapsody», «Somebody to Love», «We Are the Champions», o «Innuendo». Además de la actividad con la banda, en los años ochenta lanzó su carrera como solista que lo llevó a publicar dos álbumes: Mr. Bad Guy (1985) y Barcelona (1988), este último en colaboración con la soprano española Montserrat Caballé. El sencillo homónimo, una colaboración entre ambos, fue la canción oficial de los Juegos Olímpicos de Barcelona 1992.</string>
+
+    <string name="boton_anterior">Anterior</string>
+    <string name="boton_siguiente">Siguiente</string>
+    <string name="imagen_del_artista">Imagen del artista</string>
+
+</resources>
